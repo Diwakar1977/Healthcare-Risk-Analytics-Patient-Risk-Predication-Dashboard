@@ -67,10 +67,98 @@ The following features were created.
   * Chronic disease risk score
 # 🗄️MySQL Analysis
 MySQL queries were written to generate business insights.
-**Patient Merics**
-  * Total Patients
-  * Average blood sugar level
-  * Diabetes patient count
-  * Heart disease patients count
+* **Patient Merics**
+   * Total Patients
+   * Average blood sugar level
+   * Diabetes patient count
+   * Heart disease patients count
+ * **Risk Analysis**
+    * Diabetes rate by age group
+    * Heart disease by family history
+    * Kidney function vs diabetes
+    * glucose tolerance risk analysis
+ * **Lifestyle Analysis**
+    * Physical activity vs Risk
+    * Alcohol consupation  vs Heart disease
+    * Lifestyle impact analysis
+* **Advanced Risk Analytics**
+    * High Risk Patients Identification
+    * Multiple Chronic Conditions Analysis
+    * Predictive Risk Segmentation
+    * Medication Usage Analysis
+# 📈Power BI Dashbord
+The dashboard provides interactive healthcare insights for stakeholders.
+* **Dashboard KPIs**
+   * Total patients
+   * High risk patients %
+   * Diabetes prevalence %
+   * Heart disease %
+   * Average hospital visits
+* **Dashboard Visualizations**
+   * Patient risk distribution
+   * Risk level by age group
+   * Lifestyle impact on risk
+   * Chronical disease vs Risk level
+   * Clinical metrics risk analysis
+   * Hospital burden analysis
+# 🧠Key Insights
+* **Risk Insights**
+ * Senior age group shows higher risk levels
+ *  High BMI increases diabetes risk
+ *  Poor kidney function linked to diabetes
+* **Lifestyle Insights**
+ * Low physical activity increases health risk
+ * Alcohol consumption increases heart disease risk
+ * Smoking increases chronic disease probability
+* **Hospital Insights**
+ * High risk patients visit hospitals more frequently
+ * Chronic diseases increase healthcare burden
+# 📂 Project Architecture
+```
+Healthcare-Risk-Analytics
+│
+├── data/
+│   └── synthetic_healthcare.csv
+│
+├── python/
+│   └── data_cleaning.ipynb
+│
+├── sql/
+│   └── healthcare_analysis.sql
+│
+├── powerbi/
+│   └── Healthcare_Dashboard.pbix
+│
+├── images/
+│   └── dashboard.png
+│
+└── README.md
+```
+# ✅Conclusion
+This Healthcare Risk Analytics project successfully analyzed patient data to identify high-risk individuals, understand disease patterns, and evaluate lifestyle impact on health outcomes. Using Python, MySQL, and Power BI, the project delivered actionable insights through an interactive dashboard, enabling healthcare providers to make data-driven decisions, improve preventive care, and reduce hospital burden.
+The solution demonstrates a complete end-to-end healthcare analytics workflow and provides a scalable framework for real-world healthcare risk monitoring and patient management.
+# 📚References
+ * Python Pandas Documentation
+ * Power BI Documentation
+ * MySQL Documentation
+ * Kaggle Retail Datasets
+ * Data Analytics Best Practices
+# 👨‍💻Author
+DIWAKAR K
+* Data Analyst | Python | MySQL | Power BI
+# ⭐Project Highlights
+ * End-to-End Data Analytics Project
+ * Real-World Healthcare Use Case
+ * MySQL Business Intelligence Queries
+ * Predictive Risk Segmentation
+ * Interactive Power BI Dashboard
+ * Professional Documentation
+# 📈 Business Impact
+This dashboard helps healthcare organizations:
+ * Identify high-risk patients early
+ * Reduce hospital readmissions
+ * Improve preventive healthcare
+ * Optimize healthcare resources
+ * Improve clinical decision-making
 
 
