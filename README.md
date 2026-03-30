@@ -1,4 +1,4 @@
-# 🏥Healthcare Risk Analytics Patient Risk Predication Dashboard
+# 🏥Healthcare Risk Analytics & Patient Risk Predication Dashboard
 A real-world end-to-end healthcare analytics project designed to identiy high-risk patients,analyzed chronic disease trendsk, and provide actionable insights for healthcare provideres, This project demonstrates a **complete data analytics lifecycle** - from **data cleaning and transaction** to **MySQL-based analytics** and **interactive Power BI dashboard devlopment**.
 # 📌Project Overview
 Healthcare organizations need to identify high-risk patinets early to reduce hospitalization costs and improve patient outcomes. This project analyzed **10,000+ synthetic healthcare patient records** to uncover patterns related to.
